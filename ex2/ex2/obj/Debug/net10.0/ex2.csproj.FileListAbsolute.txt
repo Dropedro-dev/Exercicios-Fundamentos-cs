@@ -1,0 +1,14 @@
+C:\codigo-fonte\RocketSeat\C#DOTNET\exercicios\fundamentos\ex2\ex2\bin\Debug\net10.0\ex2.exe
+C:\codigo-fonte\RocketSeat\C#DOTNET\exercicios\fundamentos\ex2\ex2\bin\Debug\net10.0\ex2.deps.json
+C:\codigo-fonte\RocketSeat\C#DOTNET\exercicios\fundamentos\ex2\ex2\bin\Debug\net10.0\ex2.runtimeconfig.json
+C:\codigo-fonte\RocketSeat\C#DOTNET\exercicios\fundamentos\ex2\ex2\bin\Debug\net10.0\ex2.dll
+C:\codigo-fonte\RocketSeat\C#DOTNET\exercicios\fundamentos\ex2\ex2\bin\Debug\net10.0\ex2.pdb
+C:\codigo-fonte\RocketSeat\C#DOTNET\exercicios\fundamentos\ex2\ex2\obj\Debug\net10.0\ex2.GeneratedMSBuildEditorConfig.editorconfig
+C:\codigo-fonte\RocketSeat\C#DOTNET\exercicios\fundamentos\ex2\ex2\obj\Debug\net10.0\ex2.AssemblyInfoInputs.cache
+C:\codigo-fonte\RocketSeat\C#DOTNET\exercicios\fundamentos\ex2\ex2\obj\Debug\net10.0\ex2.AssemblyInfo.cs
+C:\codigo-fonte\RocketSeat\C#DOTNET\exercicios\fundamentos\ex2\ex2\obj\Debug\net10.0\ex2.csproj.CoreCompileInputs.cache
+C:\codigo-fonte\RocketSeat\C#DOTNET\exercicios\fundamentos\ex2\ex2\obj\Debug\net10.0\ex2.dll
+C:\codigo-fonte\RocketSeat\C#DOTNET\exercicios\fundamentos\ex2\ex2\obj\Debug\net10.0\refint\ex2.dll
+C:\codigo-fonte\RocketSeat\C#DOTNET\exercicios\fundamentos\ex2\ex2\obj\Debug\net10.0\ex2.pdb
+C:\codigo-fonte\RocketSeat\C#DOTNET\exercicios\fundamentos\ex2\ex2\obj\Debug\net10.0\ex2.genruntimeconfig.cache
+C:\codigo-fonte\RocketSeat\C#DOTNET\exercicios\fundamentos\ex2\ex2\obj\Debug\net10.0\ref\ex2.dll

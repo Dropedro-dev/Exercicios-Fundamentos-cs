@@ -1,0 +1,14 @@
+C:\codigo-fonte\RocketSeat\C#DOTNET\exercicios\fundamentos\Ex3\Ex3\bin\Debug\net10.0\Ex3.exe
+C:\codigo-fonte\RocketSeat\C#DOTNET\exercicios\fundamentos\Ex3\Ex3\bin\Debug\net10.0\Ex3.deps.json
+C:\codigo-fonte\RocketSeat\C#DOTNET\exercicios\fundamentos\Ex3\Ex3\bin\Debug\net10.0\Ex3.runtimeconfig.json
+C:\codigo-fonte\RocketSeat\C#DOTNET\exercicios\fundamentos\Ex3\Ex3\bin\Debug\net10.0\Ex3.dll
+C:\codigo-fonte\RocketSeat\C#DOTNET\exercicios\fundamentos\Ex3\Ex3\bin\Debug\net10.0\Ex3.pdb
+C:\codigo-fonte\RocketSeat\C#DOTNET\exercicios\fundamentos\Ex3\Ex3\obj\Debug\net10.0\Ex3.GeneratedMSBuildEditorConfig.editorconfig
+C:\codigo-fonte\RocketSeat\C#DOTNET\exercicios\fundamentos\Ex3\Ex3\obj\Debug\net10.0\Ex3.AssemblyInfoInputs.cache
+C:\codigo-fonte\RocketSeat\C#DOTNET\exercicios\fundamentos\Ex3\Ex3\obj\Debug\net10.0\Ex3.AssemblyInfo.cs
+C:\codigo-fonte\RocketSeat\C#DOTNET\exercicios\fundamentos\Ex3\Ex3\obj\Debug\net10.0\Ex3.csproj.CoreCompileInputs.cache
+C:\codigo-fonte\RocketSeat\C#DOTNET\exercicios\fundamentos\Ex3\Ex3\obj\Debug\net10.0\Ex3.dll
+C:\codigo-fonte\RocketSeat\C#DOTNET\exercicios\fundamentos\Ex3\Ex3\obj\Debug\net10.0\refint\Ex3.dll
+C:\codigo-fonte\RocketSeat\C#DOTNET\exercicios\fundamentos\Ex3\Ex3\obj\Debug\net10.0\Ex3.pdb
+C:\codigo-fonte\RocketSeat\C#DOTNET\exercicios\fundamentos\Ex3\Ex3\obj\Debug\net10.0\Ex3.genruntimeconfig.cache
+C:\codigo-fonte\RocketSeat\C#DOTNET\exercicios\fundamentos\Ex3\Ex3\obj\Debug\net10.0\ref\Ex3.dll

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\codigo-fonte\\RocketSeat\\C#DOTNET\\exercicios\\fundamentos\\ex4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{238C1F82-3CF0-0885-9573-BB5EB10BBC72}|ex4\\ex4.csproj|c:\\codigo-fonte\\rocketseat\\c#dotnet\\exercicios\\fundamentos\\ex4\\ex4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{238C1F82-3CF0-0885-9573-BB5EB10BBC72}|ex4\\ex4.csproj|solutionrelative:ex4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\codigo-fonte\\RocketSeat\\C#DOTNET\\exercicios\\fundamentos\\ex4\\ex4\\Program.cs",
+              "RelativeDocumentMoniker": "ex4\\Program.cs",
+              "ToolTip": "C:\\codigo-fonte\\RocketSeat\\C#DOTNET\\exercicios\\fundamentos\\ex4\\ex4\\Program.cs",
+              "RelativeToolTip": "ex4\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAgwBUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T21:24:48.314Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
